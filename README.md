@@ -33,4 +33,13 @@ Correlation Analysis
 (t-test) Correlation between income and loan amount 
 Box plot (Correlation between income and loan amount)
 Chi-square (Correlation between loan status and no. dependents) 
-Logistic Regression 
+Logistic Regression
+
+## Insigths
+62.2 % of loans were approved while 37.8 % were rejected
+
+There is a significant influence of income on asset value
+
+There is a statistical significant difference in loan amount and income per annum
+
+There is a no statically significant relationship between loan status and the number of dependents
